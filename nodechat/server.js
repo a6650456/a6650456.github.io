@@ -9,8 +9,8 @@ var path = require('path');
 var onlineCount = 0;
 app.use(express.static(__dirname));
 
-app.get('/login.html',function(require,response){
-    response.sendFile('login.html');
+app.get('/index.html',function(require,response){
+    response.sendFile('index.html');
 });
 io.on('connection',function(socket){
     console.log('a user connected');
