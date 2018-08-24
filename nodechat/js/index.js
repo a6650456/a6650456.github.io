@@ -1,13 +1,13 @@
-//var url = decodeURI(location.href).split('?')[1].split('&');
+
 var chatContent = document.getElementsByClassName('chat-content')[0];
 var editBox = document.getElementsByClassName('edit-box')[0];
 var editButton = document.getElementsByClassName('edit-button')[0];
 var userName = document.getElementsByClassName('user-name')[0];
 var onlineCount = document.getElementsByClassName('online-count')[0];
 
-//userName.innerHTML = url[1].split('=')[1];
+
 var userImg = document.getElementsByClassName('user-img')[0];
-//userImg.src = 'img/'+url[0].split('=')[1];
+
 var logOut = document.getElementsByClassName('log-out')[0];
 
 //绑定按钮事件
