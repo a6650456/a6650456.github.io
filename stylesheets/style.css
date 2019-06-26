@@ -685,21 +685,24 @@ p.footer-head a:hover{
 	.aboutus-row-column i.icon1 {
 		width: 80px;
 		height: 80px;
-		background: url(../images/img-resources.png)no-repeat 5px 5px;
+		/*background: url(../images/img-resources.png)no-repeat 5px 5px;*/
+		background: url(../images/game-icon_1.jpg);
 		display: inline-block;
 		background-size: 300%;
 	}
 	.aboutus-row-column i.icon2{
 		width: 80px;
 		height: 80px;
-		background: url(../images/img-resources.png)no-repeat -80px 5px;
+	/*	background: url(../images/img-resources.png)no-repeat -80px 5px;*/
+	  background: url(../images/game-icon_2.png);
 		display: inline-block;
 		background-size: 300%;
 	}
 	.aboutus-row-column i.icon3{
 		width: 80px;
 		height: 80px;
-		background: url(../images/img-resources.png)no-repeat -164px 5px;
+		/*background: url(../images/img-resources.png)no-repeat -164px 5px;*/
+		background: url(../images/game-icon_3.jpg);
 		display: inline-block;
 		background-size: 300%;
 	}
