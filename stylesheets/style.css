@@ -132,19 +132,19 @@ ul.menu-top li a:hover{
 .aboutus-row-column i.icon1{
 	width:128px;
 	height:111px;
-	background:url(../images/img-resources.png)no-repeat 8px 0px;
+	background:url(../images/img-gameres.png)no-repeat 8px 0px;
 	display: inline-block;
 }
 .aboutus-row-column i.icon2{
 	width:128px;
 	height:111px;
-	background:url(../images/img-resources.png)no-repeat -128px 0px;
+	background:url(../images/img-gameres.png)no-repeat -128px 0px;
 	display: inline-block;
 }
 .aboutus-row-column i.icon3{
 	width:128px;
 	height:111px;
-	background:url(../images/img-resources.png)no-repeat -270px 0px;
+	background:url(../images/img-gameres.png)no-repeat -270px 0px;
 	display: inline-block;
 }
 .aboutus-row-column h3{
@@ -685,24 +685,21 @@ p.footer-head a:hover{
 	.aboutus-row-column i.icon1 {
 		width: 80px;
 		height: 80px;
-		/*background: url(../images/img-resources.png)no-repeat 5px 5px;*/
-		background: url(../images/game-icon_1.jpg);
+		background: url(../images/img-gameres.png)no-repeat 5px 5px;
 		display: inline-block;
 		background-size: 300%;
 	}
 	.aboutus-row-column i.icon2{
 		width: 80px;
 		height: 80px;
-	/*	background: url(../images/img-resources.png)no-repeat -80px 5px;*/
-	  background: url(../images/game-icon_2.png);
+		background: url(../images/img-gameres.png)no-repeat -80px 5px;
 		display: inline-block;
 		background-size: 300%;
 	}
 	.aboutus-row-column i.icon3{
 		width: 80px;
 		height: 80px;
-		/*background: url(../images/img-resources.png)no-repeat -164px 5px;*/
-		background: url(../images/game-icon_3.jpg);
+		background: url(../images/img-gameres.png)no-repeat -164px 5px;
 		display: inline-block;
 		background-size: 300%;
 	}
@@ -761,21 +758,21 @@ p.footer-head a:hover{
 	.aboutus-row-column i.icon1 {
 		width: 64px;
 		height: 64px;
-		background: url(../images/img-resources.png)no-repeat 5px 5px;
+		background: url(../images/img-gameres.png)no-repeat 5px 5px;
 		display: inline-block;
 		background-size: 300%;
 	}
 	.aboutus-row-column i.icon2{
 		width: 64px;
 		height: 64px;
-		background: url(../images/img-resources.png)no-repeat -64px 5px;
+		background: url(../images/img-gameres.png)no-repeat -64px 5px;
 		display: inline-block;
 		background-size: 300%;
 	}
 	.aboutus-row-column i.icon3{
 		width: 64px;
 		height: 64px;
-		background: url(../images/img-resources.png)no-repeat -131px 5px;
+		background: url(../images/img-gameres.png)no-repeat -131px 5px;
 		display: inline-block;
 		background-size: 300%;
 	}
